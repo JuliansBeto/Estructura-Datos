@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1537662990 source:c:\users\fernando\desktop\numeros_naturales\src\procedimientos.cpp
+	"procedimientos.h"
+
+1537660357 c:\users\fernando\desktop\numeros_naturales\include\procedimientos.h
+	<iostream>
+
+1537662693 source:c:\users\fernando\desktop\numeros_naturales\main.cpp
+	<iostream>
+	<stdlib.h>
+	"procedimientos.h"
+
+1537662990 source:c:\users\fernando\desktop\luis fernando nahuat alcocer\numeros_naturales\src\procedimientos.cpp
+	"procedimientos.h"
+
+1537686275 c:\users\fernando\desktop\luis fernando nahuat alcocer\numeros_naturales\include\procedimientos.h
+	<iostream>
+
+1537686455 source:c:\users\fernando\desktop\luis fernando nahuat alcocer\numeros_naturales\main.cpp
+	<iostream>
+	<stdlib.h>
+	"procedimientos.h"
+
+1537743912 source:c:\users\fernando\documents\programas_luis_nahuat\unidad_1\numeros_naturales\main.cpp
+	<iostream>
+	<stdlib.h>
+	"procedimientos.h"
+
+1537743912 c:\users\fernando\documents\programas_luis_nahuat\unidad_1\numeros_naturales\include\procedimientos.h
+	<iostream>
+
+1537743912 source:c:\users\fernando\documents\programas_luis_nahuat\unidad_1\numeros_naturales\src\procedimientos.cpp
+	"procedimientos.h"
+

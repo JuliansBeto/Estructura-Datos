@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537747016 source:c:\users\usuario\desktop\universidad\3.-semestre\estructura de datos\1.-unidad\1.-programa_1\main.cpp
+	<iostream>
+	<string>
+	"Procedimientos.h"
+
+1537747154 c:\users\usuario\desktop\universidad\3.-semestre\estructura de datos\1.-unidad\1.-programa_1\include\procedimientos.h
+	<iostream>
+	<string>
+
+1537747154 source:c:\users\usuario\desktop\universidad\3.-semestre\estructura de datos\1.-unidad\1.-programa_1\src\procedimientos.cpp
+	"Procedimientos.h"
+	<iostream>
+	<string>
+
