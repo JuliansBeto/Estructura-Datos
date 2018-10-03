@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1538436232 source:c:\users\usuario\desktop\universidad\3.-semestre\estructura de datos\1.-unidad\3.-programa_3\main.cpp
+	<iostream>
+	<string>
+	"Billetes.h"
+
+1538436232 source:c:\users\usuario\desktop\universidad\3.-semestre\estructura de datos\1.-unidad\3.-programa_3\src\billetes.cpp
+	"Billetes.h"
+	<iostream>
+	<string>
+
+1538435190 c:\users\usuario\desktop\universidad\3.-semestre\estructura de datos\1.-unidad\3.-programa_3\include\billetes.h
+	<iostream>
+	<string>
+
+1538436232 source:c:\users\usuario\desktop\nueva carpeta (3)\3.-programa_3\main.cpp
+	<iostream>
+	<string>
+	"Billetes.h"
+
+1538435190 c:\users\usuario\desktop\nueva carpeta (3)\3.-programa_3\include\billetes.h
+	<iostream>
+	<string>
+
+1538436232 source:c:\users\usuario\desktop\nueva carpeta (3)\3.-programa_3\src\billetes.cpp
+	"Billetes.h"
+	<iostream>
+	<string>
+

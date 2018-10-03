@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1538501174 source:c:\users\usuario\desktop\universidad\3.-semestre\estructura de datos\1.-unidad\1.-programa_1\src\palindromos.cpp
+	"palindromos.h"
+	<iostream>
+	<string.h>
+
+1538501174 c:\users\usuario\desktop\universidad\3.-semestre\estructura de datos\1.-unidad\1.-programa_1\include\palindromos.h
+	<iostream>
+	<string.h>
+
+1538501229 source:c:\users\usuario\desktop\universidad\3.-semestre\estructura de datos\1.-unidad\1.-programa_1\main.cpp
+	<iostream>
+	<string.h>
+	"palindromos.h"
+
